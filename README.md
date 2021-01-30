@@ -20,3 +20,12 @@
 3. 在實體機上，進入至系統設定，並在最下方的版本字串上輕觸點擊九下。
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_dev/main/2.png)
+  
+  
+4. 手機進入開發者模式。
+
+
+
+5. 使用 USB 連接電腦。
+
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_dev/main/4.png)
