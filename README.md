@@ -29,3 +29,7 @@
 5. 使用 USB 連接電腦。
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_dev/main/4.png)
+
+6. 允許 USB Debug。
+
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_dev/main/6.png)
