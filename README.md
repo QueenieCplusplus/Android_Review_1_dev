@@ -16,4 +16,7 @@
 
    ![](https://github.com/QueenieCplusplus/Android_Review_1_dev/blob/main/0.sys%20set%201.png)
    
-   
+  
+3. 在實體機上，進入至系統設定，並在最下方的版本字串上輕觸點擊九下。
+
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_dev/main/2.png)
