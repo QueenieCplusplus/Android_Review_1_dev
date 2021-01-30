@@ -33,3 +33,7 @@
 6. 允許 USB Debug。
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_dev/main/6.png)
+
+7. IDE 出現實體機選項，點擊 run app 即可讓 apk 自動導入到手機上喔！
+
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_dev/main/7.debug%20on%20device.png)
