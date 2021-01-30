@@ -7,3 +7,5 @@
    
    
 2. 在實體機設備上，將系統的安全防護關閉。(尤其下載 APK 時。)
+
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_dev/main/a.sdk%20tool.png)
